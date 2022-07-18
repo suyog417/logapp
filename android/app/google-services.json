@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817158834882",
+    "project_id": "logapp-8c2e1",
+    "storage_bucket": "logapp-8c2e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817158834882:android:02b28b176490087899c95b",
+        "android_client_info": {
+          "package_name": "com.example.logapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817158834882-587jvove74npuhv17rn70465pvsvsei5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logapp",
+            "certificate_hash": "f84a4cb41deb8c0e8356815b0191c2e18487dcf9"
+          }
+        },
+        {
+          "client_id": "817158834882-quqml7v51jkceg8fgpdk2q4b5kitvt6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkqYm-aPg_GcrzbbftsnTUFETIW9_egs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817158834882-quqml7v51jkceg8fgpdk2q4b5kitvt6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
