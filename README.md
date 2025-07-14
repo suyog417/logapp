@@ -1,4 +1,4 @@
-# logapp
+# Desk Alerts
 
 A new Flutter project.
 
